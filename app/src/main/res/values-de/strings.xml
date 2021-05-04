@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Submission2</string>
+
+    <string name="tab_text_1">Anhänger</string>
+    <string name="tab_text_2">Im Folgenden</string>
+    <string name="username">Nutzername</string>
+    <string name="search_user">Benutzer suchen</string>
+    <string name="repositories">Repositories</string>
+    <string name="following">Im Folgenden</string>
+    <string name="followers">Anhänger</string>
+    <string name="change_language">Sprache ändern</string>
+    <string name="detail_user">Detail Benutzer</string>
+</resources>
