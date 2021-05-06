@@ -6,5 +6,11 @@
         android:id="@+id/option_local"
         android:title="@string/change_language"
         android:icon="@drawable/ic_settings"
-        app:showAsAction="always"/>
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/cardview"
+        android:title="CardView"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="never"/>
 </menu>
